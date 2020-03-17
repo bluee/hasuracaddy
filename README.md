@@ -1,6 +1,6 @@
 # Hasura with Caddy
 
-# Deploy as Azure container
+## Deploy as Azure container
 ```
 az container create 
    --resource-group rg-hasuracaddy 
